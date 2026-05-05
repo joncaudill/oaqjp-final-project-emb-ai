@@ -134,3 +134,4 @@ dmypy.json
 3b_formatted_output_test.txt
 4b_packaging_test.txt
 5*.txt
+6*.*
